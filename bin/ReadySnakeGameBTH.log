@@ -1,0 +1,6 @@
+﻿  Application.cpp
+C:\Users\Admin\Desktop\C++\SnakeGameFinalBTH\proj\ReadySnakeGameBTH\ReadySnakeGameBTH\Application.cpp(11,24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Snake.cpp
+  Generating Code...
+  ReadySnakeGameBTH.vcxproj -> C:\Users\Admin\Desktop\C++\SnakeGameFinalBTH\bin\ReadySnakeGameBTH.exe

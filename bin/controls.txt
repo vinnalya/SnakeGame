@@ -1,0 +1,22 @@
+Snake Game Controls
+
+Movement:
+
+- Use the Arrow Keys to move the snake
+ in the desired direction.
+
+Special Action:
+
+- Press the Spacebar to grow the snake by one segment.
+
+  Note: Using the Spacebar to grow the snake will not
+ add to your score.
+
+Objective:
+
+- Guide the snake to eat the food and grow as long as
+possible without colliding with the walls or yourself.
+
+- The longer the snake grows, the higher your score!
+
+Good luck and have fun!
